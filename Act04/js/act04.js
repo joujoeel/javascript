@@ -6,7 +6,7 @@ var tercera = 30;
 var quarta = 40;
 
 if (quarta >= 40) {
-tasca1.innerHTML += 'Tasca 1 : La quarta es la variable més gran';
+  document.getElementById('tasca1').innerHTML += 'Tasca 1 : La quarta es la variable més granaaaaaaa';
 } else {
 tasca1.innerHTML += 'Valor es fals';
 }
